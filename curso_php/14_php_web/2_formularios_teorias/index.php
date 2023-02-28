@@ -1,0 +1,6 @@
+<?php
+
+    #GET PEGA ALGO DO SERVIDOR
+    #POST ENVIAR ALGO PARA O SERVIDOR
+
+    
